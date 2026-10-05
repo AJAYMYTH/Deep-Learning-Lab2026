@@ -1,0 +1,18 @@
+{
+  "source": "https://huggingface.co/datasets/Project-AgML/tomato_leaf_disease",
+  "revision": "76a2f52138563e7b68ccda4d9de02e43c7fe0c94",
+  "license": "CC0-1.0",
+  "samples_per_class": 100,
+  "classes": [
+    "Bacterial Spot",
+    "Early Blight",
+    "Healthy",
+    "Late Blight",
+    "Leaf Mold",
+    "Septoria Leaf Spot",
+    "Spider Mites Two-spotted Spider Mite",
+    "Target Spot",
+    "Tomato Mosaic Virus",
+    "Tomato Yellow Leaf Curl Virus"
+  ]
+}
