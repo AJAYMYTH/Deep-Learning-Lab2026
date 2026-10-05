@@ -1,2 +1,4 @@
 /.venv
 /c:\Users\javal\OneDrive\Documents\Deep_Learning_Lab\Experiment - Images
+__pycache__/
+*.py[cod]

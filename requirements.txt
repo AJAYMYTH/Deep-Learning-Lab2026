@@ -1,0 +1,5 @@
+matplotlib>=3.7
+numpy>=1.23.5,<3
+requests>=2.31
+scikit-learn>=1.2
+tensorflow>=2.15
